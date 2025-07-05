@@ -8,13 +8,13 @@
 
 ## About me
 
-- 🔭 I’m currently working for a Software Engineering based company in Jakarta, Indonesia  
-- 🌱 I’m currently learning Angular, Tailwind and Scss  
-- 👯 I’m looking to collaborate on any kind of web and mobile dev  
-- 🤔 I’m looking for help with any kind of web and mobile dev  
-- 💬 Talk to me about game, anime, movies or books  
-- 😄 Pronouns: He/His/Him  
-- ⚡ Fun fact: Never give up!!  
+- 🔭 I’m currently working as a Software Engineer with experience in fullstack development, based in Jakarta, Indonesia.  
+- 🌱 Currently deepening my skills in Java Spring Boot, React, and Flutter to build scalable and modern web & mobile applications.  
+- 👯 Open to collaborate on web or mobile app projects, especially those using modern tech stacks.  
+- 🤔 Always eager to learn and exchange knowledge about software engineering, best practices, and tech in general.  
+- 💬 Feel free to talk to me about tech, games, anime, movies, or books — I enjoy a good discussion!  
+- 😄 Pronouns: He/Him  
+- ⚡ Fun fact: I believe learning never stops — so Never Give Up!  
 
 ---
 
@@ -43,9 +43,6 @@
 
 ---
 
-## 📃 Blog Posts
+## 📫 Connect with me
 
-- [tes](https://dev.to/agnirosadi/tes-33f8)
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/agni-rosadi-401952204/)
